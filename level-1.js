@@ -81,7 +81,6 @@ var motorcycle = [];
 
 function motorcycleBrand(logBrand) {
 	motorcycle.push(logBrand);
-	console.log(motorcycle);
 }
 
 motorcycleBrand("Yamaha");
